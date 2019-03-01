@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "js/Diagnostics.4a2379d0.js"
   },
   {
-    "revision": "0dcb06cea4a0c7ba700a",
+    "revision": "17a756a0c3f0761b3400",
     "url": "css/app.449a0318.css"
   },
   {
-    "revision": "0dcb06cea4a0c7ba700a",
-    "url": "js/app.7e36815e.js"
+    "revision": "17a756a0c3f0761b3400",
+    "url": "js/app.2f0ebef3.js"
   },
   {
     "revision": "8c663f4a8d360f56ea3b",
@@ -72,20 +72,20 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.56959f60.js"
   },
   {
-    "revision": "6699ca95ad85a9129250",
-    "url": "css/dashboard.170c6696.css"
+    "revision": "fc3d5df626c83961e203",
+    "url": "css/dashboard.6fbb321a.css"
   },
   {
-    "revision": "6699ca95ad85a9129250",
-    "url": "js/dashboard.a295aeba.js"
+    "revision": "fc3d5df626c83961e203",
+    "url": "js/dashboard.46d15838.js"
   },
   {
-    "revision": "e4404020b3c488675a37",
+    "revision": "8cb153a217a8df241c2e",
     "url": "css/details.5575a811.css"
   },
   {
-    "revision": "e4404020b3c488675a37",
-    "url": "js/details.c790b59a.js"
+    "revision": "8cb153a217a8df241c2e",
+    "url": "js/details.d3a32984.js"
   },
   {
     "revision": "c44a11e9663f9b455006",
@@ -112,28 +112,28 @@ self.__precacheManifest = [
     "url": "js/privacy.6dafd5c4.js"
   },
   {
-    "revision": "e1c51720be6c7b7a586b",
-    "url": "css/profile.87eb711b.css"
+    "revision": "b21bd3689a535713e4ca",
+    "url": "css/profile.98741916.css"
   },
   {
-    "revision": "e1c51720be6c7b7a586b",
-    "url": "js/profile.4b7f306c.js"
+    "revision": "b21bd3689a535713e4ca",
+    "url": "js/profile.d1f15a33.js"
   },
   {
-    "revision": "c234ec56affb383f3250",
-    "url": "js/Configurations.3aed248e.js"
+    "revision": "bae633852bbf3f6a644b",
+    "url": "js/Configurations.9188e0b7.js"
   },
   {
     "revision": "f1f299c8f2e086cebbfc",
     "url": "js/Configurations~Data History~Diagnostics~dashboard~details~devices~property~user.a0862f97.js"
   },
   {
-    "revision": "5b382d60117a112b0205",
+    "revision": "da163cb896f4dd55feba",
     "url": "css/user.7f645dac.css"
   },
   {
-    "revision": "5b382d60117a112b0205",
-    "url": "js/user.bd4d588a.js"
+    "revision": "da163cb896f4dd55feba",
+    "url": "js/user.9b7b1c5c.js"
   },
   {
     "revision": "0756e1c2b57a36bd210911b24a774494",
@@ -156,12 +156,12 @@ self.__precacheManifest = [
     "url": "fonts/fa-solid-900.9f25a06f.woff2"
   },
   {
-    "revision": "0d37e867715b745248390e8a9515cce2",
-    "url": "fonts/fa-brands-400.0d37e867.ttf"
-  },
-  {
     "revision": "6fa7434ed84bcd8a18f2d4082fe0471a",
     "url": "fonts/fa-brands-400.6fa7434e.eot"
+  },
+  {
+    "revision": "0d37e867715b745248390e8a9515cce2",
+    "url": "fonts/fa-brands-400.0d37e867.ttf"
   },
   {
     "revision": "5e0880da30da346a7e09c614639bcacb",
@@ -192,20 +192,20 @@ self.__precacheManifest = [
     "url": "fonts/fa-solid-900.c251229a.eot"
   },
   {
-    "revision": "9bb9bf9eaecd702b9a5a1f0cb4976b6f",
-    "url": "fonts/fa-regular-400.9bb9bf9e.ttf"
-  },
-  {
     "revision": "49585be028d17da4be7d768121ca69ee",
     "url": "fonts/fa-regular-400.49585be0.eot"
   },
   {
-    "revision": "5708aa3afde9acd9385b455ceed32cab",
-    "url": "fonts/fa-light-300.5708aa3a.ttf"
+    "revision": "9bb9bf9eaecd702b9a5a1f0cb4976b6f",
+    "url": "fonts/fa-regular-400.9bb9bf9e.ttf"
   },
   {
     "revision": "2626ea387360e0ce32037801ec6baee6",
     "url": "fonts/fa-light-300.2626ea38.eot"
+  },
+  {
+    "revision": "5708aa3afde9acd9385b455ceed32cab",
+    "url": "fonts/fa-light-300.5708aa3a.ttf"
   },
   {
     "revision": "cf8137d345fbab9b2afde23f5568b5ba",
@@ -228,7 +228,7 @@ self.__precacheManifest = [
     "url": "img/cow.9005829a.jpg"
   },
   {
-    "revision": "0fb62178475dfac6db935cf310028dba",
+    "revision": "c2b87816270c7c67df4cc108390af2ef",
     "url": "index.html"
   },
   {
@@ -236,7 +236,7 @@ self.__precacheManifest = [
     "url": "motelogo.png"
   },
   {
-    "revision": "c234ec56affb383f3250",
-    "url": "css/Configurations.1c538f59.css"
+    "revision": "bae633852bbf3f6a644b",
+    "url": "css/Configurations.6f4071d5.css"
   }
 ];
