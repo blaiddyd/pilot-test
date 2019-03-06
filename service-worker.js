@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.21502c00a6f3516ca9538b2381059f1d.js"
+  "precache-manifest.2e5a25f0e75e1d6d76f44c743c1b3faa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pilot-app"});

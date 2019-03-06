@@ -164,12 +164,12 @@ self.__precacheManifest = [
     "url": "fonts/fa-solid-900.9f25a06f.woff2"
   },
   {
-    "revision": "0d37e867715b745248390e8a9515cce2",
-    "url": "fonts/fa-brands-400.0d37e867.ttf"
-  },
-  {
     "revision": "6fa7434ed84bcd8a18f2d4082fe0471a",
     "url": "fonts/fa-brands-400.6fa7434e.eot"
+  },
+  {
+    "revision": "0d37e867715b745248390e8a9515cce2",
+    "url": "fonts/fa-brands-400.0d37e867.ttf"
   },
   {
     "revision": "5e0880da30da346a7e09c614639bcacb",
