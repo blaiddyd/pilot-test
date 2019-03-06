@@ -192,28 +192,28 @@ self.__precacheManifest = [
     "url": "fonts/fa-light-300.086ab29e.woff"
   },
   {
-    "revision": "c251229a9fe84a992c493b1393ea8878",
-    "url": "fonts/fa-solid-900.c251229a.eot"
-  },
-  {
     "revision": "ef88392f3412b7348fa32b921e79dd9f",
     "url": "fonts/fa-solid-900.ef88392f.ttf"
   },
   {
-    "revision": "9bb9bf9eaecd702b9a5a1f0cb4976b6f",
-    "url": "fonts/fa-regular-400.9bb9bf9e.ttf"
+    "revision": "c251229a9fe84a992c493b1393ea8878",
+    "url": "fonts/fa-solid-900.c251229a.eot"
   },
   {
     "revision": "49585be028d17da4be7d768121ca69ee",
     "url": "fonts/fa-regular-400.49585be0.eot"
   },
   {
-    "revision": "2626ea387360e0ce32037801ec6baee6",
-    "url": "fonts/fa-light-300.2626ea38.eot"
+    "revision": "9bb9bf9eaecd702b9a5a1f0cb4976b6f",
+    "url": "fonts/fa-regular-400.9bb9bf9e.ttf"
   },
   {
     "revision": "5708aa3afde9acd9385b455ceed32cab",
     "url": "fonts/fa-light-300.5708aa3a.ttf"
+  },
+  {
+    "revision": "2626ea387360e0ce32037801ec6baee6",
+    "url": "fonts/fa-light-300.2626ea38.eot"
   },
   {
     "revision": "cf8137d345fbab9b2afde23f5568b5ba",
